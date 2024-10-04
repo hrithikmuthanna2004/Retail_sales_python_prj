@@ -1,1 +1,1 @@
-# Retail_sales_python_prj
+# Retail Sales Data Analysis - Python
